@@ -1,0 +1,8 @@
+html, body {
+  font-family: 'Arial', sans-serif;
+}
+#abc {
+  font-size: 70mm;
+  margin-left: auto;
+  margin-right: auto;
+}
